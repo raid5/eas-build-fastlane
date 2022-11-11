@@ -1,0 +1,2 @@
+scheme("EASBuildFastlane")
+clean(true)
