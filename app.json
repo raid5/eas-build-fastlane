@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "EASBuildFastlane",
+    "slug": "eas-build-fastlane",
+    "extra": {
+      "eas": {
+        "projectId": "6c7edc1a-246c-4ffc-9ec9-86c4ec632e5c"
+      }
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "eas-build-fastlane",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "expo": "^44.0.6"
+  }
+}

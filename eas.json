@@ -1,0 +1,11 @@
+{
+  "build": {
+    "development": {
+      "distribution": "internal",
+      "ios": {
+        "buildArtifactPaths": ["ios/fastlane/*"],
+        "simulator": true
+      }
+    }
+  }
+}
