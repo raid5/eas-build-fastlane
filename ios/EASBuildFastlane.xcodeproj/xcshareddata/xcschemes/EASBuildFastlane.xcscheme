@@ -39,17 +39,6 @@
                ReferencedContainer = "container:EASBuildFastlane.xcodeproj">
             </BuildableReference>
          </TestableReference>
-         <TestableReference
-            skipped = "NO"
-            parallelizable = "YES">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "B287D17A291EF99C00BA1006"
-               BuildableName = "EASBuildFastlaneUITests.xctest"
-               BlueprintName = "EASBuildFastlaneUITests"
-               ReferencedContainer = "container:EASBuildFastlane.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
    </TestAction>
    <LaunchAction
