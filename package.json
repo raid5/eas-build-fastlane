@@ -2,6 +2,9 @@
   "name": "eas-build-fastlane",
   "version": "0.0.1",
   "private": true,
+  "scripts": {
+    "eas-build-post-install": "cd ios/ && bundle install && bundle exec fastlane tests"
+  },
   "dependencies": {
     "expo": "^44.0.6"
   }

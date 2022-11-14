@@ -4,6 +4,7 @@
       "distribution": "internal",
       "ios": {
         "buildArtifactPaths": ["ios/fastlane/*"],
+        "image": "latest",
         "simulator": true
       }
     }
